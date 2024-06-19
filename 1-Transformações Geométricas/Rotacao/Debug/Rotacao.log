@@ -1,0 +1,7 @@
+﻿  Rotacao.cpp
+C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\1-Transformações Geométricas\Rotacao\Rotacao.cpp(68,27): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\1-Transformações Geométricas\Rotacao\Rotacao.cpp(100,24): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\1-Transformações Geométricas\Rotacao\Rotacao.cpp(100,19): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\1-Transformações Geométricas\Rotacao\Rotacao.cpp(106,26): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\1-Transformações Geométricas\Rotacao\Rotacao.cpp(106,19): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+  Rotacao.vcxproj -> C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\1-Transformações Geométricas\Debug\Rotacao.exe

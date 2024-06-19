@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karin\\Documents\\2024-1\\Computa\u00E7\u00E3o Gr\u00E1fica\\projetos\\Trabalhos de Implementa\u00E7\u00E3o\\1-Transforma\u00E7\u00F5es Geom\u00E9tricas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC703F3D-D96D-441D-B163-8E4EFFE1FF56}|Escala\\Escala.vcxproj|C:\\Users\\karin\\Documents\\2024-1\\Computa\u00E7\u00E3o Gr\u00E1fica\\projetos\\Trabalhos de Implementa\u00E7\u00E3o\\1-Transforma\u00E7\u00F5es Geom\u00E9tricas\\Escala\\Escala.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC703F3D-D96D-441D-B163-8E4EFFE1FF56}|Escala\\Escala.vcxproj|solutionrelative:Escala\\Escala.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4E8C96-B491-476B-9634-9B6072C96575}|Rotacao\\Rotacao.vcxproj|C:\\Users\\karin\\Documents\\2024-1\\Computa\u00E7\u00E3o Gr\u00E1fica\\projetos\\Trabalhos de Implementa\u00E7\u00E3o\\1-Transforma\u00E7\u00F5es Geom\u00E9tricas\\Rotacao\\Rotacao.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA4E8C96-B491-476B-9634-9B6072C96575}|Rotacao\\Rotacao.vcxproj|solutionrelative:Rotacao\\Rotacao.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF711925-76D2-409E-A3BE-1970CC3031CB}|Translacao\\Translacao.vcxproj|C:\\Users\\karin\\Documents\\2024-1\\Computa\u00E7\u00E3o Gr\u00E1fica\\projetos\\Trabalhos de Implementa\u00E7\u00E3o\\1-Transforma\u00E7\u00F5es Geom\u00E9tricas\\Translacao\\Translacao.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF711925-76D2-409E-A3BE-1970CC3031CB}|Translacao\\Translacao.vcxproj|solutionrelative:Translacao\\Translacao.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Escala.cpp",
+              "DocumentMoniker": "C:\\Users\\karin\\Documents\\2024-1\\Computa\u00E7\u00E3o Gr\u00E1fica\\projetos\\Trabalhos de Implementa\u00E7\u00E3o\\1-Transforma\u00E7\u00F5es Geom\u00E9tricas\\Escala\\Escala.cpp",
+              "RelativeDocumentMoniker": "Escala\\Escala.cpp",
+              "ToolTip": "C:\\Users\\karin\\Documents\\2024-1\\Computa\u00E7\u00E3o Gr\u00E1fica\\projetos\\Trabalhos de Implementa\u00E7\u00E3o\\1-Transforma\u00E7\u00F5es Geom\u00E9tricas\\Escala\\Escala.cpp",
+              "RelativeToolTip": "Escala\\Escala.cpp",
+              "ViewState": "AQIAADEAAAAAAAAAAAAuwEoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-22T22:15:09.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Translacao.cpp",
+              "DocumentMoniker": "C:\\Users\\karin\\Documents\\2024-1\\Computa\u00E7\u00E3o Gr\u00E1fica\\projetos\\Trabalhos de Implementa\u00E7\u00E3o\\1-Transforma\u00E7\u00F5es Geom\u00E9tricas\\Translacao\\Translacao.cpp",
+              "RelativeDocumentMoniker": "Translacao\\Translacao.cpp",
+              "ToolTip": "C:\\Users\\karin\\Documents\\2024-1\\Computa\u00E7\u00E3o Gr\u00E1fica\\projetos\\Trabalhos de Implementa\u00E7\u00E3o\\1-Transforma\u00E7\u00F5es Geom\u00E9tricas\\Translacao\\Translacao.cpp",
+              "RelativeToolTip": "Translacao\\Translacao.cpp",
+              "ViewState": "AQIAADgAAAAAAAAAAAAYwFMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-22T22:14:25.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rotacao.cpp",
+              "DocumentMoniker": "C:\\Users\\karin\\Documents\\2024-1\\Computa\u00E7\u00E3o Gr\u00E1fica\\projetos\\Trabalhos de Implementa\u00E7\u00E3o\\1-Transforma\u00E7\u00F5es Geom\u00E9tricas\\Rotacao\\Rotacao.cpp",
+              "RelativeDocumentMoniker": "Rotacao\\Rotacao.cpp",
+              "ToolTip": "C:\\Users\\karin\\Documents\\2024-1\\Computa\u00E7\u00E3o Gr\u00E1fica\\projetos\\Trabalhos de Implementa\u00E7\u00E3o\\1-Transforma\u00E7\u00F5es Geom\u00E9tricas\\Rotacao\\Rotacao.cpp",
+              "RelativeToolTip": "Rotacao\\Rotacao.cpp",
+              "ViewState": "AQIAADgAAAAAAAAAAAAuwDkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-22T16:29:34.275Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+﻿  Escala.cpp
+C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\1-Transformações Geométricas\Escala\Escala.cpp(93,24): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\1-Transformações Geométricas\Escala\Escala.cpp(93,19): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\1-Transformações Geométricas\Escala\Escala.cpp(99,25): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\1-Transformações Geométricas\Escala\Escala.cpp(99,19): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+  Escala.vcxproj -> C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\1-Transformações Geométricas\Debug\Escala.exe

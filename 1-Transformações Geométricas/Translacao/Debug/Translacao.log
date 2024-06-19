@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: O diretório intermediário (Debug\) contém arquivos compartilhados de outro projeto (Rotacao.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  Translacao.cpp
+C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\1-Transformações Geométricas\Translacao\Translacao.cpp(93,24): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\1-Transformações Geométricas\Translacao\Translacao.cpp(93,19): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\1-Transformações Geométricas\Translacao\Translacao.cpp(99,25): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\1-Transformações Geométricas\Translacao\Translacao.cpp(99,19): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+  Translacao.vcxproj -> C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\1-Transformações Geométricas\Debug\Translacao.exe

@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: O diretório intermediário (Debug\) contém arquivos compartilhados de outro projeto (ProjetoBasico.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  RetaOtimizada.cpp
+C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\2-RetaOtimizada\ProjetoBasico\RetaOtimizada.cpp(22,28): warning C4244: '=': conversão de 'double' para 'GLubyte', possível perda de dados
+C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\2-RetaOtimizada\ProjetoBasico\RetaOtimizada.cpp(23,32): warning C4244: '=': conversão de 'double' para 'GLubyte', possível perda de dados
+C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\2-RetaOtimizada\ProjetoBasico\RetaOtimizada.cpp(24,32): warning C4244: '=': conversão de 'double' para 'GLubyte', possível perda de dados
+C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\2-RetaOtimizada\ProjetoBasico\RetaOtimizada.cpp(70,37): warning C4101: 'y': variável local não referenciada
+C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\2-RetaOtimizada\ProjetoBasico\RetaOtimizada.cpp(70,34): warning C4101: 'x': variável local não referenciada
+  ProjetoBasico.vcxproj -> C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\2-RetaOtimizada\Debug\RetaOtimizada.exe
