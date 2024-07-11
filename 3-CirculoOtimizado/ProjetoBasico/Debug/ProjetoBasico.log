@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: O diretório intermediário (Debug\) contém arquivos compartilhados de outro projeto (ProjetoBasico.vcxproj, RetaOtimizada.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  CirculoOtimizado.cpp
+C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\3-CirculoOtimizado\ProjetoBasico\CirculoOtimizado.cpp(21,28): warning C4244: '=': conversão de 'double' para 'GLubyte', possível perda de dados
+C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\3-CirculoOtimizado\ProjetoBasico\CirculoOtimizado.cpp(22,32): warning C4244: '=': conversão de 'double' para 'GLubyte', possível perda de dados
+C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\3-CirculoOtimizado\ProjetoBasico\CirculoOtimizado.cpp(23,32): warning C4244: '=': conversão de 'double' para 'GLubyte', possível perda de dados
+C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\3-CirculoOtimizado\ProjetoBasico\CirculoOtimizado.cpp(44,14): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\3-CirculoOtimizado\ProjetoBasico\CirculoOtimizado.cpp(69,14): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+  ProjetoBasico.vcxproj -> C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\Trabalhos de Implementação\3-CirculoOtimizado\Debug\CirculoOtimizado.exe
