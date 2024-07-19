@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: O diretório intermediário (Debug\) contém arquivos compartilhados de outro projeto (CirculoOtimizado.vcxproj, ProjetoBasico.vcxproj, RetaOtimizada.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  BackfaceDetection.cpp
+C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\ComputacaoGrafica\5-BackfaceDetection\ProjetoBasico\BackfaceDetection.cpp(148,24): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\ComputacaoGrafica\5-BackfaceDetection\ProjetoBasico\BackfaceDetection.cpp(156,86): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  ProjetoBasico.vcxproj -> C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\ComputacaoGrafica\5-BackfaceDetection\Debug\BackfaceDetection.exe

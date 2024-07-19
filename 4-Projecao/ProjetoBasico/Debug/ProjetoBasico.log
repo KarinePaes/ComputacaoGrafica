@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: O diretório intermediário (Debug\) contém arquivos compartilhados de outro projeto (CirculoOtimizado.vcxproj, ProjetoBasico.vcxproj, RetaOtimizada.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  Projecao.cpp
+C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\ComputacaoGrafica\4-Projecao\ProjetoBasico\Projecao.cpp(88,13): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+  ProjetoBasico.vcxproj -> C:\Users\karin\Documents\2024-1\Computação Gráfica\projetos\ComputacaoGrafica\4-Projecao\Debug\Projecao.exe
